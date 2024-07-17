@@ -1,3 +1,5 @@
+import 'zone.js';
+
 import { Component } from '@angular/core';
 
 @Component({
